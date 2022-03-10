@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') { 
             steps {
-                sh "cd ../src/ && javac Programme.java"
+                sh "cd src/ && javac Programme.java"
             }
         }
         stage('run') { 
