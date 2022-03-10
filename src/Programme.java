@@ -12,9 +12,9 @@ public class Programme {
 	public static void main(String[] args) throws IOException {
 		
 		
-		String path = "C:\\Users\\louis\\Desktop\\web\\txtfiles\\";
-    	String chsavehtml = "C:\\Users\\louis\\Desktop\\web\\";
-        String chsavepasswd = "C:\\Users\\louis\\Desktop\\web\\";
+		String path = "https://github.com/zougar12/gosecuri/blob/main/mspr/cberthier.txt\\";
+    	String chsavehtml = "C:\\wamp\\www\\mspr\\";
+        String chsavepasswd = "C:\\wamp\\www\\mspr\\";
         
         
         Path path1;
