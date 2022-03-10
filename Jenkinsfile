@@ -8,7 +8,7 @@ pipeline {
         }
         stage('run') { 
             steps {
-                sh "cd src/ && java programme.java"
+                sh "cd src/ && java Programme.java"
             }
         }
         stage('deploy') { 
