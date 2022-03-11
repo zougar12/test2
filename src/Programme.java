@@ -12,9 +12,9 @@ public class Programme {
 	public static void main(String[] args) throws IOException {
 		
 		
-	String path = "..\\Nouveau dossier\\";
-    	String chsavehtml = "..\\Nouveau dossier\\";
-        String chsavepasswd = "..\\Nouveau dossier\\";     
+	String path = "C:\\Users\\zouga\\OneDrive\\Bureau\\Nouveau dossier\\";
+    	String chsavehtml = "C:\\wamp\\www\\mspr\\";
+        String chsavepasswd = "C:\\wamp\\www\\mspr\\";     
         
         
         Path path1;
